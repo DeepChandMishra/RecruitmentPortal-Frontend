@@ -1,0 +1,131 @@
+{
+    "landingPage": {
+        "heading": {
+            "mainHeadling_1": "Descubre",
+            "mainHeadling_2": "nuevas",
+            "mainHeadling_3": "oportunidades de carrera",
+            "mainHeadling_4": "donde la experiencia es valorada",
+            "mainDescription_1": "Conéctate con empleadores que aprecian tus habilidades experimentadas",
+            "mainDescription_2": "y encuentra el rol perfecto."
+        },
+        "about": {
+            "about_heading": "Todo Sobre Nosotros",
+            "about_description": "Lorem Ipsum es simplemente texto de relleno de la industria de la impresión y composición tipográfica. Lorem Ipsum ha sido el texto estándar de la industria desde el siglo XVI, cuando un impresor desconocido tomó una galera de tipos y la mezcló para hacer un libro de muestras de tipos. Ha sobrevivido no solo cinco siglos, sino también el salto a la composición tipográfica electrónica, permaneciendo esencialmente sin cambios. Se popularizó en la década de 1960 con el lanzamiento de hojas Letraset que contenían pasajes de Lorem Ipsum, y más recientemente con software de autoedición como Aldus PageMaker que incluye versiones de Lorem Ipsum."
+        },
+        "employeeDashboard": {
+            "heading1": "Bienvenido",
+            "heading2": "a",
+            "description": "Conéctate con empleadores que aprecian tus habilidades experimentadas y encuentra el rol perfecto.",
+            "searchButton": "Encuentra todas las oportunidades",
+            "searchButton1": "Voluntariados en mi Ã¡rea",
+            "searchButton2": "Oportunidades pagadas en mi área",
+            "searchMessage": "Oportunidades basadas en tus preferencias",
+            "jobCardButton1": "Guardar oportunidad",
+            "jobCardButton2": "Solicita ahora",
+            "jobCardButton3": "Oportunidades solicitadas",
+            "profileButton": "Ve a tu perfil",
+            "applicationButton": "Mis solicitudes",
+            "opportunity": "Oportunidad",
+            "searchOpportunities": {
+                "heading": "Busca oportunidades",
+                "searchOpportunityButton": "Busca oportunidades",
+                "searchMessage": "Oportunidades basadas en tus preferencias",
+                "noSearchMessage": "No hay oportunidades basadas en tus preferencias",
+                "jobCardButton1": "Guardar oportunidad",
+                "jobCardButton2": "Solicita ahora",
+                "profileButton": "Completa tu perfil",
+                "applicationButton": "Tus solicitudes"
+            },
+            "savedOpportunity": {
+                "heading": "Guardar oportunidades",
+                "description": "Oportunidades guardadas",
+                "searchButton": "Buscar"
+            },
+            "employeeHeader": {
+                "nav1": "Tablero",
+                "nav2": "Busca oportunidades",
+                "nav3": "Mensajes",
+                "nav4": "Oportunidades guardadas",
+                "nav5": "Calendario"
+            }
+        },
+        "employerDashbaord": {
+            "heading1": "¿Buscando ActiveAge?",
+            "description": "Conéctate con empleados que aportan una valiosa experiencia y encuentra el ajuste perfecto para tu empresa",
+            "moreCandidateButton": "MÃ¡s candidatos",
+            "discoverCandidateHeading": "Descubre candidatos",
+            "viewProfileButton": "Ver perfil",
+            "liveOpportunitySection": "Oportunidades activas",
+            "addOpportunityButton": "AÃ±ade una oportunidad",
+            "calenderHeading": "Calendario de hoy",
+            "calenderDetailsButton": "Ver detalles",
+            "clearButton": "Borrar",
+            "Search": "Buscar",
+            "No_events_found": "No se encontraron eventos",
+            "employerOpportunityPost": {
+                "heading": "Publicaciones de oportunidades actuales",
+                "addOpprtunityButton": "Agregar oportunidad",
+                "clearButton": "Limpiar"
+            },
+            "employerCandidate": {
+                "heading": "Publicaciones de oportunidades actuales",
+                "addOpprtunityButton": "AÃ±adir oportunidad",
+                "clearButton": "Borrar",
+                "messageRequestButton": "Solicitud de mensaje",
+                "viewProfileButton": "Ver perfil"
+            },
+            "employerHeader": {
+                "nav1": "Tablero",
+                "nav2": "PublicaciÃ³n de Oportunidades",
+                "nav3": "Candidatos",
+                "nav4": "Mensajes",
+                "nav5": "Calendario",
+                "nav6": "Seguimiento"
+            }
+        },
+        "tracker": {
+            "heading": "Rastreador de Solicitantes",
+            "heading1": "Rastreador de Oportunidades de ActiveAge",
+            "appliedButton": "Solicitado",
+            "shortListedButton": "Preseleccionado",
+            "hiredButton": "Contratado",
+            "searchButton": "Buscar",
+            "clearButton": "Borrar",
+            "noApplicationMessageEmployer": "Sin solicitudes",
+            "noApplicationMessageEmployee": "Sin solicitudes"
+        },
+        "pagination": {
+            "nextButton": "Siguiente",
+            "previousButton": "Anterior"
+        },
+        "message": {
+            "search": "Buscar",
+            "liveChatLabel": "Chat en vivo",
+            "ratingLabel": "CalificaciÃ³n",
+            "notesLabel": "Notas",
+            "notesPlaceholder": "Agregar notas para esta conversaciÃ³n",
+            "activeLabel": "Activo",
+            "noListMessage": "Las conversaciones aparecerÃ¡n aquÃ",
+            "agoLabel": "Antes"
+        },
+        "footerDetails": {
+            "footerDescription": "Conéctate con empleadores que aprecian tus habilidades experimentadas y encuentra el rol perfecto.",
+            "mainHeadling1": "Enlaces rÃ¡pidos",
+            "mainHeadling1_button1": "PÃ¡gina de inicio",
+            "mainHeadling1_button2": "InformaciÃ³n",
+            "mainHeadling1_button3": "Para organizaciones",
+            "mainHeadling2": "Enlaces principales",
+            "mainHeadling2_button1": "Tablero",
+            "mainHeadling2_button2": "Buscar oportunidades",
+            "mainHeadling2_button3": "Mensajes",
+            "mainHeadling2_button4": "Calendario"
+        },
+        "profile": {
+            "location": "Ubicaciones",
+            "language": "Idiomas",
+            "type_of_opportunity": "Tipo de oportunidad",
+            "skills": "Habilidades",
+            "download": "Descargar currículum"
+        }
+    }
+}

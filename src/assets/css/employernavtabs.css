@@ -1,0 +1,285 @@
+.employer-job-opportunities-tabs{
+    padding: 100px 0px;
+
+}
+
+.employer-job-opportunities-tabs .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: var(--primary);
+    background-color: transparent !important;
+}
+
+.employer-job-opportunities-tabs .nav-link {
+    color: var(--textLight);
+    font-size: 14px;
+    text-align: start !important;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+
+
+/* employer hires cards css written here */
+
+
+.employer-hire-cards .name-column{
+    font-size: 14px;
+    color: var(--textLight);
+
+}
+
+
+.employer-hire-cards .list-hired-col li{ 
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--textLight);
+
+}
+
+.employer-hire-cards .list-hired-col li:nth-child(1){
+    list-style: none;
+}
+
+.employer-hire-cards .location-column{
+    font-size: 14px;
+    color: var( --chatUserStatus);
+}
+
+.employer-hire-cards .hire-para-details{
+    font-size: 16px;
+    color: var(--textLight);
+}
+
+.employer-hire-cards .btn-view-more{
+    color: var(--primary);
+}
+
+.employer-hire-cards .contracts-wrapper{
+    border: 1px solid var(--borderChat);
+    border-radius: 4px;
+    padding: 10px;
+
+}
+
+.employer-hire-cards .contracts-wrapper h4{
+    font-size:16px ;
+    color: var(--textLight);
+}
+
+.employer-hire-cards .contracts-wrapper h5{
+    font-size: 16px;
+    color: var(--textChatSpan);
+}
+
+.employer-hire-cards .border-bottom-contacts{
+    padding-bottom: 4px;
+    border-bottom: 1px solid var(--borderChat);
+}
+
+.employer-hire-cards .text-col{
+    font-size: 16px;
+    color: var(--textLight);
+}
+
+.employer-hire-cards .hire-user-profile{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.employer-hire-cards .user-profile-active .active-status{
+    right: 8px;
+}
+
+ .border-wrapper{
+    padding: 20px 0px;
+    border-bottom: 1px solid var(--borderChat);
+}
+
+.employer-hire-wrapper{
+    padding: 0px 20px;
+    border: 1px solid var(--borderChat);
+    border-radius: 16px;
+}
+
+
+/* Calender Tabs */
+
+
+/* Calender Modal */
+
+.member-chips-block .authfields.react-select-container .react-select__control {
+    max-height: 100px;
+    overflow: auto;
+    border: 1px solid #ADADAD;
+}
+
+.inner-job-wrapper-candidate.calender-wrapper{
+    border: 1px solid rgba(20, 20, 20, 0.05);
+    padding: 24px;
+    border-radius: 8px;
+}
+
+.calender-inner-wrapper-tabs hr{
+    color: #EBEBEB ;
+}
+
+.tabs-custom.calender-tabs{
+    width: auto;
+    /* padding: 12px 15px; */
+    padding: 5px;
+}
+
+.tabs-custom.calender-tabs .nav-item.newTabs-view .nav-link.active {
+    border-bottom: unset;
+}
+.tabs-custom.calender-tabs .nav-item.newTabs-view .nav-link{
+    padding: 15px;
+    font-size: 16px;
+    min-width: 155px;
+}
+
+/* .calender-tabs .newTabs-view{
+    width: calc(50% - 11px);
+} */
+
+.calender-tabs .newTabs-view .nav-link{
+    width: 100%;
+}
+
+ .name-badge-col > p{
+    margin-bottom: 0;
+    border: 1px solid var(--primary);
+    padding: 4px 8px ;
+    border-radius: 4px;
+    font-size: 14px;
+    line-height: 21px;
+ }
+
+ .appointment-text-col > .date-time-col{
+    font-size: 16px;
+    font-weight: 500;
+    color: #a0a0a0;
+
+ }
+ .appointment-text-col > .date-time-col.link-col{
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    /* max-width: 300px;
+    min-width: 300px; */
+    width: 100%;
+    overflow: hidden;
+
+ }
+
+ .candidates-skills-row .calender-skills{
+    font-size: 24px;
+    font-weight: 500;
+ }
+
+ .calender-inner-wrapper-tabs {
+    border: 1px solid #EBEBEB;
+    padding: 28px;
+    border-radius: 16px;
+}
+
+.calender-inner-wrapper-tabs .calender-tab-actionBtn{
+    display: flex;
+    justify-content: center;
+}
+
+.calender-inner-wrapper-tabs .calender-tab-actionBtn .btn.btn-outline{
+    padding: 8px 16px !important;
+    border-radius: 8px !important;
+    border-width: 1px !important;
+}
+
+.calender-inner-wrapper-tabs .calender-tab-actionBtn .btn.btn-outline:hover{
+    border: 1px solid var(--primary);
+}
+
+
+
+@media screen and (max-width:768px) {
+    .prev-hire-cards .prev-head-text {
+        font-size: 15px;
+    }    
+}
+
+
+
+@media screen and (max-width:600px) {
+
+
+    .prev-outer-wrapper .d-flex.flex-1 {
+        width: 100%;
+    }
+
+    .employer-hire-cards .list-hired-col{
+        justify-content: center;
+        padding: 15px 0px;
+    }
+    .employer-hire-cards .hire-para-details{
+        margin: 0px !important;
+    }
+
+    .employer-hire-cards{
+        position: relative;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .positon-img-col{
+     position: absolute;
+     top: 15px;
+     right: 15px;
+    }
+
+    .prev-hire-cards{
+        display: flex;
+    flex-direction: column-reverse;
+    }
+
+    .prev-hire-cards .d-flex.justify-content-between{
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+
+    .prev-hire-cards .d-flex.gap-3{
+        flex-direction: column;
+    }
+
+    .prev-outer-wrapper .d-flex.gap-2.align-items-center.mb-3{
+        flex-direction: column;
+    }
+
+    .prev-outer-wrapper .d-flex.gap-3.align-items-center.justify-content-center.flex-wrap.py-3{
+        flex-direction: column;
+    } 
+
+    .prev-hire-cards .bet-prev-col h3 {
+        color: var(--textLight);
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+
+
+    /* Calender Tabs */
+    .calender-inner-wrapper-tabs,.inner-job-wrapper-candidate.calender-wrapper {
+        padding: 12px;
+    }
+    .candidate-job-details .name-col-candidate.new-name-col{
+        flex-direction: column;
+    }
+
+    .candidates-skills-row .calender-skills{
+        font-size: 18px;
+    }
+    .appointment-text-col > .date-time-col {
+        font-size: 14px;
+    }
+    
+}

@@ -1,0 +1,164 @@
+.customeLabel{
+    color: #000;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-bottom: 8px;
+}
+ input.authfields{
+    background-color: var(--white);
+    padding: 15px 25px;
+    border-radius: 9px;
+    border: 1px solid #ADADAD;
+    background: var(--white);
+    width: 100%;
+ }
+ 
+ input.authfields:focus-visible{
+    border: 1px solid var(--primary);
+ }
+
+.errorMsg{
+   font-size: 12px;
+   color: red;
+}
+
+.cards .form-select{
+
+   background-color: var(--white);
+   width: 100%;
+   border: 1px solid #adadad;
+   border-radius: 9px;
+   padding: 15px 25px;
+   color: #808080;
+}
+
+
+.cards .form-select::placeholder{
+   color: var(--placeholderSelect);
+   font-size: 14px;
+}
+
+.dropdown{
+   background-color: var(--white);
+   width: 100%;
+   border: 1px solid #adadad;
+   border-radius: 9px;
+   position: relative;
+}
+
+.dropdown-toggle::after {
+   display: none;
+}
+
+.dropdown-icon{
+   position: absolute;
+   right: 10px;
+   top: 16px;
+   z-index: -1;
+}
+
+.checkboxes-skills .formControls{
+   margin-bottom: 5px;
+}
+
+.select.multi-select-input__control.css-13cymwt-control {
+   padding: 8px 25px;
+    border-radius: 9px;
+    border: 1px solid #ADADAD;
+    background: var(--white);
+    width: 100%;
+}
+
+
+.skills-select  .select.multi-select-input__control {
+   max-height: 100px;
+   overflow: auto;
+}
+
+.css-13cymwt-control {
+   padding: 8px 25px;
+   border-radius: 9px !important;
+   border: 1px solid #ADADAD;
+   background: var(--white);
+   width: 100%;
+}
+
+.job-main-col .authfields{
+   border-radius: 0px;
+   border: 1px solid var(--borderChat);
+}
+
+.job-main-col .formControls{
+   margin-bottom: 0px;
+   /* flex: 1; */
+}
+
+.job-main-col .location-input-col {
+   /* padding: 12px 25px 12px 45px !important; */
+   white-space: nowrap;
+   overflow: hidden;
+   text-overflow: ellipsis;
+}
+
+
+.job-main-col .location-input-col::placeholder{
+   width: 100px;
+   white-space: nowrap;
+   overflow: hidden;
+   text-overflow: ellipsis;
+}
+
+.css-t3ipsp-control{
+   padding: 8px 25px;
+   border-radius: 9px !important;
+   border: 1px solid #ADADAD !important;
+   background: var(--white);
+   width: 100%;
+
+}
+
+/* Saved  Opportunity*/
+
+.input-search.saved-input-items.input-group{
+   width: 50%;
+}
+
+.select-employer-dashboard.saved-input-items{
+   width: 12%;
+   flex: none;
+}
+
+
+/* Text area */
+
+textarea.form-control{
+   resize: none;
+   border: 1px solid #ADADAD;
+}
+
+@media  screen and (min-width:1300px) {
+
+   .dropdown{
+      min-width: 450px;
+   }
+
+   .form-select{
+      min-width: 450px;
+   }
+   
+}
+@media  screen and (max-width:991px) {
+
+   .input-search.saved-input-items.input-group{
+      width: auto;
+   }
+   
+   .select-employer-dashboard.saved-input-items{
+      width: auto;
+   }
+   
+}
+

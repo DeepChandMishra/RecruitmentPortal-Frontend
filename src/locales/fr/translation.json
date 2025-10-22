@@ -1,0 +1,131 @@
+{
+    "landingPage": {
+        "heading": {
+            "mainHeadling_1": "Découvrez",
+            "mainHeadling_2": "de nouvelles",
+            "mainHeadling_3": "opportunités de carrière",
+            "mainHeadling_4": "où l'expérience est valorisée",
+            "mainDescription_1": "Connectez-vous avec des employeurs qui apprécient vos compétences expérimentées",
+            "mainDescription_2": "et trouvez le poste idéal."
+        },
+        "about": {
+            "about_heading": "À Propos de Nous",
+            "about_description": "Lorem Ipsum est simplement du faux texte de l'industrie de l'impression et de la composition. Lorem Ipsum est le texte standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de type et l'a brouillée pour faire un livre spécimen de type. Il a survécu non seulement cinq siècles, mais aussi le saut dans la composition électronique, restant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie de feuilles Letraset contenant des passages de Lorem Ipsum, et plus récemment avec des logiciels de publication assistée par ordinateur comme Aldus PageMaker incluant des versions de Lorem Ipsum."
+        },
+        "employeeDashboard": {
+            "heading1": "Bienvenue",
+            "heading2": "à",
+            "description": "Connectez-vous avec des employeurs qui apprécient vos compétences expérimentées et trouvez le poste idéal.",
+            "searchButton": "Rechercher toutes les opportunités",
+            "searchButton1": "Opportunités de bénévolat dans ma région",
+            "searchButton2": "Opportunités rémunérées dans ma région",
+            "searchMessage": "Opportunités basées sur vos préférences",
+            "jobCardButton1": "Enregistrer l'opportunité",
+            "jobCardButton2": "Postulez maintenant",
+            "jobCardButton3": "Déjà postulé",
+            "profileButton": "Aller à votre profil",
+             "applicationButton": "Mes candidatures",
+            "opportunity": "Opportunité",
+            "searchOpportunities": {
+                "heading": "Rechercher une Opportunité",
+                "searchOpportunityButton": "Rechercher une opportunité",
+                "searchMessage": "Opportunités basées sur vos préférences",
+                "noSearchMessage": "Aucune opportunité selon vos préférences",
+                "jobCardButton1": "Enregistrer l'opportunité",
+                "jobCardButton2": "Postulez maintenant",
+                "profileButton": "Complétez votre profil",
+                "applicationButton": "Voir les candidatures"
+            },
+            "savedOpportunity": {
+                "heading": "Opportunités enregistrées",
+                "description": "Recherchez les opportunités que vous avez enregistrées",
+                "searchButton": "Recherche"
+            },
+            "employeeHeader": {
+                "nav1": "Tableau de bord",
+                "nav2": "Rechercher des Opportunités",
+                "nav3": "Messages",
+                "nav4": "Opportunités Enregistrées",
+                "nav5": "Calendrier"
+            }
+        },
+        "employerDashbaord": {
+            "heading1": "Vous cherchez ActiveAge ?",
+            "description": "Connectez-vous avec des employés qui apportent une expérience précieuse et trouvez le candidat idéal pour votre entreprise",
+            "moreCandidateButton": "Plus de candidats",
+            "discoverCandidateHeading": "Découvrir des candidats",
+            "viewProfileButton": "Voir le Profil",
+            "liveOpportunitySection": "Les opportunités en direct de Notion",
+            "addOpportunityButton": "Ajouter une Opportunité",
+            "calenderHeading": "Planning d'aujourd'hui",
+            "calenderDetailsButton": "Voir les détails",
+            "clearButton": "Effacer",
+            "Search": "Recherche",
+            "No_events_found": "Aucun événement trouvé",
+            "employerOpportunityPost": {
+                "heading": "Annonces d'opportunités actuelles",
+                "addOpprtunityButton": "Ajouter une opportunité",
+                "clearButton": "Effacer"
+            },
+            "employerCandidate": {
+                "heading": "Annonces d'opportunités actuelles",
+                "addOpprtunityButton": "Ajouter une opportunité",
+                "clearButton": "Effacer",
+                "messageRequestButton": "Demande de message",
+                "viewProfileButton": "Voir le Profil"
+            },
+            "employerHeader": {
+                "nav1": "Tableau de bord",
+                "nav2": "Publications d'opportunités",
+                "nav3": "Candidats",
+                "nav4": "Messages",
+                "nav5": "Calendrier",
+                "nav6": "Suivi"
+            }
+        },
+        "tracker": {
+            "heading": "Suivi des Candidats",
+            "heading1": "Suivi des opportunités ActiveAge",
+            "appliedButton": "Postulé",
+            "shortListedButton": "Sélectionné",
+            "hiredButton": "Embauché",
+            "searchButton": "Recherche",
+            "clearButton": "Effacer",
+            "noApplicationMessageEmployer": "Aucun candidat!",
+            "noApplicationMessageEmployee": "Aucune candidature"
+        },
+        "pagination": {
+            "nextButton": "Suivant",
+            "previousButton": "Précédent"
+        },
+        "message": {
+            "search": "Recherche",
+            "liveChatLabel": "Chat en direct",
+            "ratingLabel": "Évaluation",
+            "notesLabel": "Notes",
+            "notesPlaceholder": "Ajouter des notes pour cette conversation",
+            "activeLabel": "Actif",
+            "noListMessage": "Les conversations apparaîtront ici",
+            "agoLabel": "il y a"
+        },
+        "footerDetails": {
+            "footerDescription": "Connectez-vous avec des employeurs qui apprécient vos compétences expérimentées et trouvez le poste idéal.",
+            "mainHeadling1": "Liens Rapides",
+            "mainHeadling1_button1": "Accueil",
+            "mainHeadling1_button2": "Informations",
+            "mainHeadling1_button3": "Pour les organisations",
+            "mainHeadling2": "Liens Principaux",
+            "mainHeadling2_button1": "Tableau de bord",
+            "mainHeadling2_button2": "Recherche d'Opportunités",
+            "mainHeadling2_button3": "Messages",
+            "mainHeadling2_button4": "Calendrier"
+        },
+        "profile": {
+            "location": "Lieux",
+            "language": "Langues",
+            "type_of_opportunity": "Type d'opportunité",
+            "skills": "Compétences",
+            "download": "Télécharger le CV"
+        }
+    }
+}

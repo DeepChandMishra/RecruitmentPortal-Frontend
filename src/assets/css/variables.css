@@ -1,0 +1,58 @@
+/* 
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+:root {
+    --primary: #697865;
+    --hover: #4e5a4b;
+    --secondary: #9B9A78;
+    --white: #fff;
+    --filePara:#C7C7C7;
+    --borderOffcanvas:#f5f5f5;
+    --borderChat:#ebebeb;
+    --uploadBg:#FCFFFB;
+    --wrapperBg:#F6F6F6;
+    --borderInput: #adadad;
+    --dropdownText:#808080;
+    --formTextLight:#ABABAB;
+    --borderInput:#D4D4D4;
+    --textBlack: #313131;
+    --textLight: #575757;
+    --lightSpan:#838383;
+    --chatDetailsPara:#676767;
+    --paraColor: #909090;
+    --chatUserStatus: #A0A0A0;
+    --textChatSpan: #BABABA;
+    --backgroundSection: #FAFAF8;
+    --bgButton:#EEEEE8;
+    --borderCard:#E4E4E4;
+    --listBg:#f2f2f2;
+    --listBgHover:#4B4B4B;
+    --chatWrapperBg: rgba(155, 154,120, 0.1);
+    --MessageBefore:#697865;
+    --borderTextarea:#D4D4D4;
+    --radioBorder:#E6F2FC;
+    --nameCol:#141414;
+    --detailsText:#777373;
+    --placeholderSelect:#808080;
+    --employerInput: rgba(20,20,20,10%);
+    --sessionTitle: #16181D;
+    --scheduleSuccess: #20CA9A;
+    --scheduleBlue: #1BA1EB;
+    --scheduleDanger: #F3557C;
+    --imgWrapperBg:#DCDCDC;
+    --profileHColCandidate:#2F343A;
+
+  }

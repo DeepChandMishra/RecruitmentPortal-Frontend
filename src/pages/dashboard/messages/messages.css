@@ -1,0 +1,43 @@
+.chatlist-col{
+    height: 70vh;
+    overflow: auto;
+}
+
+.chat-list-col{
+    flex: 0 1 400px;
+}
+
+.messages-col{
+    flex: 1 1 calc(100% - 400px);
+}
+
+.blank-data{
+    height: 100vh;
+}
+
+.blank-data img{
+    height: 80px;
+    width: 80px;
+}
+
+.blank-data .text-col{
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--textLight);
+}
+
+@media screen and (max-width:768px) {
+
+    .chat-list-opening{
+        width: 250px !important;
+    }
+
+    .chatlist-col{
+        display: none;
+    }
+    
+    .messages-col{
+        flex: 1
+    }
+    
+}

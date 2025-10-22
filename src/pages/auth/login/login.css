@@ -1,0 +1,11 @@
+.googleLogin {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.form-text-light {
+    cursor: pointer;
+    font-weight: 500;
+}
+
